@@ -48,13 +48,13 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/mail/u/0/#',
     },
     {
       id: '3',
-      name: 'Todoist',
+      name: 'Trello',
       icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://trello.com/',
     },
     {
       id: '4',
@@ -64,15 +64,15 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'bookmark',
-      link: 'https://reddit.com',
+      name: 'Canvas',
+      icon: 'aperture',
+      link: 'https://canvas.stanford.edu/',
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Gradescope',
+      icon: 'bar-chart-2',
+      link: 'https://www.gradescope.com/',
     },
   ],
 
