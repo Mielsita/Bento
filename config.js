@@ -11,16 +11,16 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Emma',
+  name: '',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingMorning: 'Good morning genius!',
+  greetingAfternoon: 'Grind time!',
+  greetingEvening: 'Good evening Emma!',
+  greetingNight: 'Go the fk to bed',
 
   // Weather
   weatherKey: 'bb30b901d29ed3093dcc1381ce592da8',
@@ -81,41 +81,33 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
+  firstListIcon: 'film',
   secondListIcon: 'coffee',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Netflix',
+        link: 'https://www.netflix.com/',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Hulu',
+        link: 'https://www.hulu.com/',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Youtube',
+        link: 'https://www.youtube.com/',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Outlook',
+        link: 'https://outlook.live.com/mail/0/inbox',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
-      },
-      {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Instagram',
+        link: 'https://instagram.com/',
       },
       {
         name: 'Telegram',
