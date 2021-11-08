@@ -18,7 +18,7 @@ const CONFIG = {
 
   // Greetings
   greetingMorning: 'Good morning genius!',
-  greetingAfternoon: 'Grind time',
+  greetingAfternoon: 'Grind time foolish',
   greetingEvening: 'Hello Emma!',
   greetingNight: 'Go the fk to bed',
 
