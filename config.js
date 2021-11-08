@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'bb30b901d29ed3093dcc1381ce592da8',
+  weatherKey: '3e5e84d671fb8dde223f7747ab1d4110',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'F', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -40,9 +40,9 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Drive',
+      icon: 'hard-drive',
+      link: 'https://drive.google.com/drive',
     },
     {
       id: '2',
