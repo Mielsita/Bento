@@ -17,15 +17,15 @@ const CONFIG = {
   twelveHourFormat: false,
 
   // Greetings
-  //greetingMorning: 'Good morning genius!',
-  //greetingAfternoon: 'Grind time foolish',
-  //greetingEvening: 'Hello Emma!',
-  //greetingNight: 'Go the fk to bed',
+  greetingMorning: 'Good morning genius!',
+  greetingAfternoon: 'Have you taken a break yet?',
+  greetingEvening: 'Hello Emma!',
+  greetingNight: 'Go the fk to bed',
   
-  greetingMorning: 'Happy birthday genius!',
-  greetingAfternoon: 'Happy birthday, I hope you have the best day',
-  greetingEvening: 'Happy birthday, You are amazing, and now 21!',
-  greetingNight: 'I hope you had a great birthday!',
+  //greetingMorning: 'Happy birthday genius!',
+  //greetingAfternoon: 'Happy birthday, I hope you have the best day',
+  //greetingEvening: 'Happy birthday, You are amazing, and now 21!',
+  //greetingNight: 'I hope you had a great birthday!',
 
   // Weather
   weatherKey: 'bb30b901d29ed3093dcc1381ce592da8',
